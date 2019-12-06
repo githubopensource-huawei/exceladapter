@@ -25,7 +25,6 @@ hs_err_pid*
 
 # [Maven.gitignore]
 target/
-Data/
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup

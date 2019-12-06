@@ -1,0 +1,614 @@
+FileId,CodePath
+BSC6900_R013_3G_CELL_Para_En,Common\negotiatedTemplates\Controller Rnp Template\BSC6000V901R013C00\Template\3G Cell Parameters Data Template
+BSC6900_R013_3G_RNP_En,Common\negotiatedTemplates\Controller Rnp Template\BSC6000V901R013C00\Template\3G Radio Network Planning Data Template
+BSC6900_R013_3G_CELL_Para_Cn,Common\negotiatedTemplates\Controller Rnp Template\BSC6000V901R013C00\Template\3G Cell Parameters Data Template
+BSC6900_R013_3G_RNP_Cn,Common\negotiatedTemplates\Controller Rnp Template\BSC6000V901R013C00\Template\3G Radio Network Planning Data Template
+BSC6900_R016_3G_CELL_Para_En,Common\negotiatedTemplates\Controller Rnp Template\BSC6000V901R016C00SPC100\en_US\Template\3G Cell Parameters Data Template
+BSC6900_R016_3G_RNP_En,Common\negotiatedTemplates\Controller Rnp Template\BSC6000V901R016C00SPC100\en_US\Template\3G Radio Network Planning Data Template
+BSC6900_R016_3G_CELL_Para_Cn,Common\negotiatedTemplates\Controller Rnp Template\BSC6000V901R016C00SPC100\zh_CN\Template\3G Cell Parameters Data Template
+BSC6900_R016_3G_RNP_Cn,Common\negotiatedTemplates\Controller Rnp Template\BSC6000V901R016C00SPC100\zh_CN\Template\3G Radio Network Planning Data Template
+BSC6900_R018_3G_CELL_Para_En,Common\negotiatedTemplates\Controller Rnp Template\BSC6000V901R018C10\Template\3G Cell Parameters Data Template
+BSC6900_R018_3G_RNP_En,Common\negotiatedTemplates\Controller Rnp Template\BSC6000V901R018C10\Template\3G Radio Network Planning Data Template
+BSC6900_R018_3G_CELL_Para_Cn,Common\negotiatedTemplates\Controller Rnp Template\BSC6000V901R018C10\Template\3G Cell Parameters Data Template
+BSC6900_R018_3G_RNP_Cn,Common\negotiatedTemplates\Controller Rnp Template\BSC6000V901R018C10\Template\3G Radio Network Planning Data Template
+BSC6900_R018C10SPC500_3G_CELL_Para_En,Common\negotiatedTemplates\Controller Rnp Template\BSC6900V900R018C10SPC500\Template\3G Cell Parameters Data Template
+BSC6900_R018C100SPC500_3G_RNP_En,Common\negotiatedTemplates\Controller Rnp Template\BSC6900V900R018C10SPC500\Template\3G Radio Network Planning Data Template
+BSC6900_R018C10SPC500_3G_CELL_Para_Cn,Common\negotiatedTemplates\Controller Rnp Template\BSC6900V900R018C10SPC500\Template\3G Cell Parameters Data Template
+BSC6900_R018C100SPC500_3G_RNP_Cn,Common\negotiatedTemplates\Controller Rnp Template\BSC6900V900R018C10SPC500\Template\3G Radio Network Planning Data Template
+BSC6910_R018C10SPC500_3G_CELL_Para_En,Common\negotiatedTemplates\Controller Rnp Template\BSC6910V100R018C10SPC500\en_US\Template\3G Cell Parameters Data Template
+BSC6910_R018C100SPC500_3G_RNP_En,Common\negotiatedTemplates\Controller Rnp Template\BSC6910V100R018C10SPC500\en_US\Template\3G Radio Network Planning Data Template
+BSC6910_R018C10SPC500_3G_CELL_Para_Cn,Common\negotiatedTemplates\Controller Rnp Template\BSC6910V100R018C10SPC500\zh_CN\Template\3G Cell Parameters Data Template
+BSC6910_R018C100SPC500_3G_RNP_Cn,Common\negotiatedTemplates\Controller Rnp Template\BSC6910V100R018C10SPC500\zh_CN\Template\3G Radio Network Planning Data Template
+BSC6900_R019C00SPC500_3G_CELL_Para_En,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Cell Parameters Data Template
+BSC6900_R019C00SPC500_3G_RNP_En,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Radio Network Planning Data Template
+BSC6900_R019C00SPC500_3G_CELL_Para_Cn,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Cell Parameters Data Template
+BSC6900_R019C00SPC500_3G_RNP_Cn,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Radio Network Planning Data Template
+BSC6900_R019C10_3G_CELL_Para_En,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Cell Parameters Data Template
+BSC6900_R019C10_3G_RNP_En,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Radio Network Planning Data Template
+BSC6900_R019C10_3G_CELL_Para_Cn,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Cell Parameters Data Template
+BSC6900_R019C10_3G_RNP_Cn,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Radio Network Planning Data Template
+BSC6900_R020C00SPC500_3G_CELL_Para_En,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Cell Parameters Data Template
+BSC6900_R020C00SPC500_3G_RNP_En,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Radio Network Planning Data Template
+BSC6900_R020C00SPC500_3G_CELL_Para_Cn,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Cell Parameters Data Template
+BSC6900_R020C00SPC500_3G_RNP_Cn,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Radio Network Planning Data Template
+BSC6900_R020C10_3G_CELL_Para_En,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Cell Parameters Data Template
+BSC6900_R020C10_3G_RNP_En,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Radio Network Planning Data Template
+BSC6900_R020C10_3G_CELL_Para_Cn,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Cell Parameters Data Template
+BSC6900_R020C10_3G_RNP_Cn,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Radio Network Planning Data Template
+BSC6900_R021C00SPC500_3G_CELL_Para_En,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Cell Parameters Data Template
+BSC6900_R021C00SPC500_3G_RNP_En,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Radio Network Planning Data Template
+BSC6900_R021C00SPC500_3G_CELL_Para_Cn,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Cell Parameters Data Template
+BSC6900_R021C00SPC500_3G_RNP_Cn,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Radio Network Planning Data Template
+BSC6900_R021C10_3G_CELL_Para_En,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Cell Parameters Data Template
+BSC6900_R021C10_3G_RNP_En,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Radio Network Planning Data Template
+BSC6900_R021C10_3G_CELL_Para_Cn,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Cell Parameters Data Template
+BSC6900_R021C10_3G_RNP_Cn,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Radio Network Planning Data Template
+BSC6900_R021C10SPC500_3G_CELL_Para_En,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Cell Parameters Data Template
+BSC6900_R021C10SPC500_3G_RNP_En,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Radio Network Planning Data Template
+BSC6900_R021C10SPC500_3G_CELL_Para_Cn,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Cell Parameters Data Template
+BSC6900_R021C10SPC500_3G_RNP_Cn,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Radio Network Planning Data Template
+BSC6900_R022C00_3G_CELL_Para_En,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Cell Parameters Data Template
+BSC6900_R022C00_3G_RNP_En,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Radio Network Planning Data Template
+BSC6900_R022C00_3G_CELL_Para_Cn,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Cell Parameters Data Template
+BSC6900_R022C00_3G_RNP_Cn,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Radio Network Planning Data Template
+BSC6910_R019C00SPC500_3G_CELL_Para_En,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Cell Parameters Data Template
+BSC6910_R019C00SPC500_3G_RNP_En,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Radio Network Planning Data Template
+BSC6910_R019C00SPC500_3G_CELL_Para_Cn,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Cell Parameters Data Template
+BSC6910_R019C00SPC500_3G_RNP_Cn,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Radio Network Planning Data Template
+BSC6910_R019C10_3G_CELL_Para_En,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Cell Parameters Data Template
+BSC6910_R019C10_3G_RNP_En,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Radio Network Planning Data Template
+BSC6910_R019C10_3G_CELL_Para_Cn,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Cell Parameters Data Template
+BSC6910_R019C10_3G_RNP_Cn,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Radio Network Planning Data Template
+BSC6910_R020C00SPC500_3G_CELL_Para_En,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Cell Parameters Data Template
+BSC6910_R020C00SPC500_3G_RNP_En,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Radio Network Planning Data Template
+BSC6910_R020C00SPC500_3G_CELL_Para_Cn,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Cell Parameters Data Template
+BSC6910_R020C00SPC500_3G_RNP_Cn,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Radio Network Planning Data Template
+BSC6910_R020C10_3G_CELL_Para_En,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Cell Parameters Data Template
+BSC6910_R020C10_3G_RNP_En,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Radio Network Planning Data Template
+BSC6910_R020C10_3G_CELL_Para_Cn,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Cell Parameters Data Template
+BSC6910_R020C10_3G_RNP_Cn,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Radio Network Planning Data Template
+BSC6910_R021C00SPC500_3G_CELL_Para_En,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Cell Parameters Data Template
+BSC6910_R021C00SPC500_3G_RNP_En,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Radio Network Planning Data Template
+BSC6910_R021C00SPC500_3G_CELL_Para_Cn,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Cell Parameters Data Template
+BSC6910_R021C00SPC500_3G_RNP_Cn,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Radio Network Planning Data Template
+BSC6910_R021C10_3G_CELL_Para_En,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Cell Parameters Data Template
+BSC6910_R021C10_3G_RNP_En,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Radio Network Planning Data Template
+BSC6910_R021C10_3G_CELL_Para_Cn,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Cell Parameters Data Template
+BSC6910_R021C10_3G_RNP_Cn,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Radio Network Planning Data Template
+BSC6910_R021C10SPC500_3G_CELL_Para_En,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Cell Parameters Data Template
+BSC6910_R021C10SPC500_3G_RNP_En,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Radio Network Planning Data Template
+BSC6910_R021C10SPC500_3G_CELL_Para_Cn,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Cell Parameters Data Template
+BSC6910_R021C10SPC500_3G_RNP_Cn,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Radio Network Planning Data Template
+BSC6910_R022C00_3G_CELL_Para_En,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Cell Parameters Data Template
+BSC6910_R022C00_3G_RNP_En,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Radio Network Planning Data Template
+BSC6910_R022C00_3G_CELL_Para_Cn,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Cell Parameters Data Template
+BSC6910_R022C00_3G_RNP_Cn,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Radio Network Planning Data Template
+6900_R22C103GCELL_Para_En,Common\negotiatedTemplates\Controller Rnp Template\6900\Template\3G Cell Parameters Data Template
+6910_R22C103GCELL_Para_En,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Cell Parameters Data Template
+6910_R22C103GRNP_En,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Radio Network Planning Data Template
+6910_R22C103GCELL_Para_Cn,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Cell Parameters Data Template
+6910_R22C103GRNP_Cn,Common\negotiatedTemplates\Controller Rnp Template\6910\Template\3G Radio Network Planning Data Template
+RNCSP500_3G_CELL_Para_En,Common\negotiatedTemplates\Controller Rnp Template\RNC820\en_US\Template\3G Cell Parameters Data Template
+RNCSP500_3G_CELL_Para_Cn,Common\negotiatedTemplates\Controller Rnp Template\RNC820\zh_CN\Template\3G Cell Parameters Data Template
+RNC_R009SP300_3G_CELL_Para_En,Common\negotiatedTemplates\Controller Rnp Template\RNC820\en_US\Template\3G Cell Parameters Data Template
+RNC_R009SP300_3G_CELL_Para_Cn,Common\negotiatedTemplates\Controller Rnp Template\RNC820\zh_CN\Template\3G Cell Parameters Data Template
+RNCSP310_3G_CELL_Para_En,Common\negotiatedTemplates\Controller Rnp Template\RNC820\en_US\Template\3G Cell Parameters Data Template
+RNCSP310_3G_CELL_Para_Cn,Common\negotiatedTemplates\Controller Rnp Template\RNC820\zh_CN\Template\3G Cell Parameters Data Template
+RNCSP200_3G_CELL_Para_En,Common\negotiatedTemplates\Controller Rnp Template\RNC820\en_US\Template\3G Cell Parameters Data Template
+RNCSP200_3G_CELL_Para_Cn,Common\negotiatedTemplates\Controller Rnp Template\RNC820\zh_CN\Template\3G Cell Parameters Data Template
+RNC_R010SP300_3G_CELL_Para_En,Common\negotiatedTemplates\Controller Rnp Template\RNC820\en_US\Template\3G Cell Parameters Data Template
+RNC_R010SP300_3G_CELL_Para_Cn,Common\negotiatedTemplates\Controller Rnp Template\RNC820\zh_CN\Template\3G Cell Parameters Data Template
+Basestation_Summary_Creation_Base_Cn,Common\summaryTemplates\rawTemplates\BaseStation\Common\Codes\Base
+LTE_Summary_Creation_Base_Cn,Common\summaryTemplates\rawTemplates\BaseStation\Common\Codes\Base_LTE
+NeTypeReconstruction_cn,Common\summaryTemplates\rawTemplates\BaseStation\Common\cn\Cn_Base_NeTypeReconstruction
+Basestation_BulkConfig_Cn,Common\summaryTemplates\rawTemplates\BaseStation\Common\Codes\Bulk Configuration Data File
+Basestation_Key_Modification_Cn,Common\summaryTemplates\rawTemplates\BaseStation\Common\cn\Cn_Key Modification Data File
+BTS_Common_RNP_Data_File_Cn,Common\summaryTemplates\rawTemplates\BaseStation\Common\cn\Cn_RNP Data File
+Basestation_SectorSplit_Cn,Common\summaryTemplates\rawTemplates\BaseStation\Common\Codes\SectorSplit Data File
+Basestation_Summary_Creation_IUB_Cn,Common\summaryTemplates\rawTemplates\BaseStation\Common\Codes\Summary Data File-Basic Scenario
+Basestation_Summary_Expand_IUB_Cn,Common\summaryTemplates\rawTemplates\BaseStation\Common\Codes\Summary Data File-Basic Scenario-Expand
+LTE_Summary_Creation_IUB_Cn,Common\summaryTemplates\rawTemplates\BaseStation\Common\Codes\Summary Data File-Basic Scenario_LTE
+Basestation_nTnR_Cn,Common\summaryTemplates\rawTemplates\BaseStation\Common\Codes\UMTS nTnR Quick Configuration Data File
+Basestation_Summary_Creation_Base_En,Common\summaryTemplates\rawTemplates\BaseStation\Common\Codes\Base
+LTE_Summary_Creation_Base_En,Common\summaryTemplates\rawTemplates\BaseStation\Common\Codes\Base_LTE
+NeTypeReconstruction_en,Common\summaryTemplates\rawTemplates\BaseStation\Common\en\En_Base_NeTypeReconstruction
+Basestation_BulkConfig_En,Common\summaryTemplates\rawTemplates\BaseStation\Common\Codes\Bulk Configuration Data File
+Basestation_Key_Modification_En,Common\summaryTemplates\rawTemplates\BaseStation\Common\en\En_Key Modification Data File
+BTS_Common_RNP_Data_File_En,Common\summaryTemplates\rawTemplates\BaseStation\Common\en\En_RNP Data File
+Basestation_SectorSplit_En,Common\summaryTemplates\rawTemplates\BaseStation\Common\Codes\SectorSplit Data File
+Basestation_Summary_Creation_IUB_En,Common\summaryTemplates\rawTemplates\BaseStation\Common\Codes\Summary Data File-Basic Scenario
+Basestation_Summary_Expand_IUB_En,Common\summaryTemplates\rawTemplates\BaseStation\Common\Codes\Summary Data File-Basic Scenario-Expand
+LTE_Summary_Creation_IUB_En,Common\summaryTemplates\rawTemplates\BaseStation\Common\Codes\Summary Data File-Basic Scenario_LTE
+Basestation_nTnR_En,Common\summaryTemplates\rawTemplates\BaseStation\Common\Codes\UMTS nTnR Quick Configuration Data File
+,Common\summaryTemplates\rawTemplates\BaseStation\LTE\cn\Cn_MBTS SDR Reconstruction Data Table
+,Common\summaryTemplates\rawTemplates\BaseStation\LTE\en\En_MBTS SDR Reconstruction Data Table
+BTS_RNP_Data_File_Cn,Common\summaryTemplates\rawTemplates\BaseStation\NR\cn\Cn_RNP Data File
+BTS_RNP_Data_File_En,Common\summaryTemplates\rawTemplates\BaseStation\NR\en\En_RNP Data File
+BaseStation_eGBTS_BSC_Redundency_Cn,Common\summaryTemplates\rawTemplates\BaseStation\SRAN\cn\Cn_eGBTS_BSC_Redundency
+,Common\summaryTemplates\rawTemplates\BaseStation\SRAN\cn\Cn_MBTS SDR Reconstruction Data Table
+Basestation_SRAN_Summary_Reparent_Cn,Common\summaryTemplates\rawTemplates\BaseStation\SRAN\cn\Cn_Summary Data File-Reparenting
+BsaeStation_eGBTS_BSC_Redundency_En,Common\summaryTemplates\rawTemplates\BaseStation\SRAN\en\En_eGBTS_BSC_Redundency
+,Common\summaryTemplates\rawTemplates\BaseStation\SRAN\en\En_MBTS SDR Reconstruction Data Table
+Basestation_SRAN_Summary_Reparent_En,Common\summaryTemplates\rawTemplates\BaseStation\SRAN\en\En_Summary Data File-Reparenting
+Basestation_PICO_Summary_Reparent_Cn,Common\summaryTemplates\rawTemplates\BaseStation\SRAN_PICOBTS3900\cn\Cn_Summary Data File-Reparenting
+Basestation_PICO_Summary_Reparent_En,Common\summaryTemplates\rawTemplates\BaseStation\SRAN_PICOBTS3900\en\En_Summary Data File-Reparenting
+,Common\summaryTemplates\rawTemplates\BaseStation\UMTS\cn\Cn_MBTS SDR Reconstruction Data Table
+Basestation_UMTS_Summary_Reparent_Cn,Common\summaryTemplates\rawTemplates\BaseStation\UMTS\cn\Cn_Summary Data File-Reparenting
+,Common\summaryTemplates\rawTemplates\BaseStation\UMTS\en\En_MBTS SDR Reconstruction Data Table
+Basestation_UMTS_Summary_Reparent_En,Common\summaryTemplates\rawTemplates\BaseStation\UMTS\en\En_Summary Data File-Reparenting
+LTE_Summary_Creation_Base_Imp,Common\summaryTemplates\rawTemplates\BaseStation\Common\Codes\Base_LTE
+Basestation_BulkConfig_Imp,Common\summaryTemplates\rawTemplates\BaseStation\Common\Codes\Bulk Configuration Data File
+Basestation_KeyModification_Imp,Common\summaryTemplates\rawTemplates_imp\BaseStation\Common\en\En_Key Modification Data File
+BaseStation_Common_En_RNP_Data,Common\summaryTemplates\rawTemplates_imp\BaseStation\Common\en\En_RNP Data File
+Basestation_SectorSplit_Imp,Common\summaryTemplates\rawTemplates\BaseStation\Common\Codes\SectorSplit Data File
+LTE_Summary_Creation_IUB_Imp,Common\summaryTemplates\rawTemplates\BaseStation\Common\Codes\Summary Data File-Basic Scenario_LTE
+PhyNodeB_BulkConfig_En,Common\PhyNodeBSummary\Model\summarytemplates\local\en_US\Bulk Configuration Data File
+PhyNodeB_Creation_IUB_En,Common\PhyNodeBSummary\Model\summarytemplates\local\en_US\Summary Data File-Basic Scenario
+PhyNodeB_BulkConfig_Cn,Common\PhyNodeBSummary\Model\summarytemplates\local\zh_CN\Bulk Configuration Data File
+PhyNodeB_Creation_IUB_Cn,Common\PhyNodeBSummary\Model\summarytemplates\local\zh_CN\Summary Data File-Basic Scenario
+,Common\local\en_US\Template\survey\OSS Survey Parameters DAMS.xlsm
+,Common\local\en_US\Template\survey\OSS Survey Parameters eCo.xlsm
+,Common\local\en_US\Template\survey\OSS Survey Parameters NASTAR.xlsm
+,Common\local\en_US\Template\survey\OSS Survey Parameters NEP.xlsm
+,Common\local\en_US\Template\survey\OSS Survey Parameters P_A.xlsm
+,Common\local\en_US\Template\survey\OSS Survey Parameters PRS.xlsm
+,Common\local\en_US\Template\survey\OSS Survey Parameters SONMaster.xlsm
+,Common\local\en_US\Template\survey\OSS Survey Parameters UNET.xlsm
+,Common\local\en_US\Template\survey\OSS Survey Parameters.xlsm
+,Common\local\zh_CN\Template\survey\OSS Survey Parameters DAMS.xlsm
+,Common\local\zh_CN\Template\survey\OSS Survey Parameters eCo.xlsm
+,Common\local\zh_CN\Template\survey\OSS Survey Parameters NASTAR.xlsm
+,Common\local\zh_CN\Template\survey\OSS Survey Parameters NEP.xlsm
+,Common\local\zh_CN\Template\survey\OSS Survey Parameters P_A.xlsm
+,Common\local\zh_CN\Template\survey\OSS Survey Parameters PRS.xlsm
+,Common\local\zh_CN\Template\survey\OSS Survey Parameters SONMaster.xlsm
+,Common\local\zh_CN\Template\survey\OSS Survey Parameters UNET.xlsm
+,Common\local\zh_CN\Template\survey\OSS Survey Parameters.xlsm
+Controller_GBTS_Trans_Eox_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\Summary Data Transform EOX
+Controller_GBTS_Trans_Eox_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\Summary Data Transform EOX
+Controller_GBTS_Transform_Reconstruction_All_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\Summary Data Transform Reconstruction
+Controller_GBTS_Transform_Reconstruction_All_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\Summary Data Transform Reconstruction
+Controller_GBTS_Local_Trans_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\local\Trans
+Controller_GBTS_Local_Trans_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\local\Trans
+Controller_GBTS_2GCell_Freq_En,
+Controller_GBTS_2GCell_Freq_Cn,
+Controller_GBTS_2GCell_Trx_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\Summary Data File-2G Cell TRX Data
+Controller_GBTS_2GCell_Trx_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\Summary Data File-2G Cell TRX Data
+Controller_GBTS_Local_Equipment_En,
+Controller_GBTS_Local_Equipment_Cn,
+Controller_UMTS_MOCN_Adjustment_En,Common\summaryTemplates\rawTemplates\Controller\UMTS\en_US\MOCN Adjustment
+Controller_UMTS_MOCN_Adjustment_Cn,Common\summaryTemplates\rawTemplates\Controller\UMTS\zh_CN\MOCN Adjustment
+Controller_UMTS_nTnR_Quick_Config_En,Common\summaryTemplates\rawTemplates\Controller\UMTS\en_US\UMTS nTnR Quick Configuration Data File
+Controller_UMTS_nTnR_Quick_Config_Cn,Common\summaryTemplates\rawTemplates\Controller\UMTS\zh_CN\UMTS nTnR Quick Configuration Data File
+Controller_UMTS_Sector_Split_En,Common\summaryTemplates\rawTemplates\Controller\UMTS\en_US\UMTS Sector Split
+Controller_UMTS_Sector_Split_Cn,Common\summaryTemplates\rawTemplates\Controller\UMTS\zh_CN\UMTS Sector Split
+Controller_UMTS_Local_Equipment_En,
+Controller_UMTS_Local_Equipment_Cn,
+Mpt_And_Pn_Adjustment_Data_en,Common\mptpn\en_US
+Mpt_And_Pn_Adjustment_Data_ch,Common\mptpn\zh_CN
+BSC6000V901R013C00_BTSNegotiated_En,Common\negotiatedTemplates\BTS Negotiated Data Template\en
+BSC6000V901R013C00_BTSNegotiated_Cn,Common\negotiatedTemplates\BTS Negotiated Data Template\cn
+LampSiteAutoConfigTask,Common\lampsiteautoconfigtask
+Controller_GBTS_Bulk_Config_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\Bulk Configuration Data File
+Controller_eGBTS_RF_Adjustment_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\eGBTS RF Adjustment
+Controller_GBTS_Create_BTS_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\En_Base
+Controller_GBTS_Dual_Homing_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\GBTS Enable Dual Homing Summary Data Workbook
+Controller_GBTS_RF_Adjustment_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\GBTS RF Adjustment
+Controller_GBTS_RF_Adjustment_List_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\GBTS RF Adjustment Type List
+Controller_GBTS_RF_Adjustment_Operation_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\GBTS RF Adjustment
+Controller_GBTS_RF_Migration_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\GBTS RF Migration
+Controller_GBTS_RF_Migration_Chain_List_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\GBTS RF Migration By Chain Type List
+Controller_GBTS_RF_Migration_Operation_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\GBTS RF Migration
+Controller_GBTS_RF_Migration_Operation_List_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\GBTS RF Migration With Operation Type List
+Controller_GBTS_Bulk_Conf_BTS_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\GSM Controller Configuration Template_BTS
+Controller_GBTS_Bulk_Conf_GCELL_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\GSM Controller Configuration Template_GCELL
+Controller_GBTS_Bulk_Conf_GO_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\GSM Controller Configuration Template_GCELL
+Controller_GBTS_Bulk_Conf_GU_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\GSM Controller Configuration Template_GCELL
+Controller_GBTS_Key_Mod_BTS_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\GSM Controller Configuration Template_BTS
+Controller_GBTS_Key_Mod_GO_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\GSM Controller Configuration Template_GCELL
+Controller_GBTS_Key_Mod_GU_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\GSM Controller Configuration Template_GCELL
+Controller_GBTS_eGBTS_Create_BTS_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\local\En_Base
+Controller_GBTS_Create_BTS_ByMoc_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\Summary Data File-Basic Scenario
+Controller_GBTS_Reparent_Basic_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\Bulk Configuration Data File
+Controller_Trans_Reconstruction_IP_ETH_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\Summary Data Transform Reconstruction IP over ETH
+Controller_GBTS_Bulk_Config_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\Bulk Configuration Data File
+Controller_GBTS_Create_BTS_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\Cn_Base
+Controller_eGBTS_RF_Adjustment_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\eGBTS RF Adjustment
+Controller_GBTS_Dual_Homing_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\GBTS Enable Dual Homing Summary Data Workbook
+Controller_GBTS_RF_Adjustment_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\GBTS RF Adjustment
+Controller_GBTS_RF_Adjustment_List_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\GBTS RF Adjustment Type List
+Controller_GBTS_RF_Adjustment_Operation_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\GBTS RF Adjustment
+Controller_GBTS_RF_Migration_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\GBTS RF Migration
+Controller_GBTS_RF_Migration_Chain_List_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\GBTS RF Migration By Chain Type List
+Controller_GBTS_RF_Migration_Operation_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\GBTS RF Migration
+Controller_GBTS_RF_Migration_Operation_List_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\GBTS RF Migration With Operation Type List
+Controller_GBTS_Bulk_Conf_BTS_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\GSM Controller Configuration Template_BTS
+Controller_GBTS_Bulk_Conf_GCELL_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\GSM Controller Configuration Template_GCELL
+Controller_GBTS_Bulk_Conf_GO_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\GSM Controller Configuration Template_GCELL
+Controller_GBTS_Bulk_Conf_GU_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\GSM Controller Configuration Template_GCELL
+Controller_GBTS_Key_Mod_BTS_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\GSM Controller Configuration Template_BTS
+Controller_GBTS_Key_Mod_GO_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\GSM Controller Configuration Template_GCELL
+Controller_GBTS_Key_Mod_GU_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\GSM Controller Configuration Template_GCELL
+Controller_GBTS_eGBTS_Create_BTS_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\local\Cn_Base
+Controller_GBTS_Create_BTS_ByMoc_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\Summary Data File-Basic Scenario
+Controller_GBTS_Reparent_Basic_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\Bulk Configuration Data File
+Controller_Trans_Reconstruction_IP_ETH_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\Summary Data Transform Reconstruction IP over ETH
+Controller_UMTS_Bulk_Config_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\Bulk Configuration Data File
+Controller_UMTS_Create_BTS_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\local\En_Base
+Controller_UMTS_Create_BTS_ByMoc_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\Summary Data File-Basic Scenario
+Controller_UMTS_Reparent_Basic_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\Bulk Configuration Data File
+Controller_UMTS_Carrier_Expansion_En,Common\summaryTemplates\rawTemplates\Controller\UMTS\en_US\UMTS Carrier Expansion
+Controller_UMTS_Bulk_Conf_GU_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\GSM Controller Configuration Template_GCELL
+Controller_UMTS_Bulk_Conf_NODEB_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\GSM Controller Configuration Template_BTS
+Controller_UMTS_Bulk_Conf_UCELL_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\GSM Controller Configuration Template_GCELL
+Controller_UMTS_Bulk_Conf_UO_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\GSM Controller Configuration Template_GCELL
+Controller_UMTS_Key_Mod_GU_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\GSM Controller Configuration Template_GCELL
+Controller_UMTS_Key_Mod_NODEB_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\GSM Controller Configuration Template_GCELL
+Controller_UMTS_Key_Mod_UO_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\GSM Controller Configuration Template_GCELL
+Controller_UMTS_Key_Mod_RNCID_En,Common\summaryTemplates\rawTemplates\Controller\GSM\en_US\GSM Controller Configuration Template_GCELL
+Controller_UMTS_RF_Adjustment_En,Common\summaryTemplates\rawTemplates\Controller\UMTS\en_US\UMTS RF Adjustment
+Controller_UMTS_RF_Migration_En,Common\summaryTemplates\rawTemplates\Controller\UMTS\en_US\UMTS RF Adjustment
+Controller_UMTS_Bulk_Config_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\Bulk Configuration Data File
+Controller_UMTS_Create_BTS_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\local\Cn_Base
+Controller_UMTS_Create_BTS_ByMoc_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\Summary Data File-Basic Scenario
+Controller_UMTS_Reparent_Basic_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\Bulk Configuration Data File
+Controller_UMTS_Carrier_Expansion_Cn,Common\summaryTemplates\rawTemplates\Controller\UMTS\zh_CN\UMTS Carrier Expansion
+Controller_UMTS_Bulk_Conf_GU_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\GSM Controller Configuration Template_GCELL
+Controller_UMTS_Bulk_Conf_NODEB_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\GSM Controller Configuration Template_BTS
+Controller_UMTS_Bulk_Conf_UCELL_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\GSM Controller Configuration Template_GCELL
+Controller_UMTS_Bulk_Conf_UO_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\GSM Controller Configuration Template_GCELL
+Controller_UMTS_Key_Mod_GU_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\GSM Controller Configuration Template_GCELL
+Controller_UMTS_Key_Mod_NODEB_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\GSM Controller Configuration Template_GCELL
+Controller_UMTS_Key_Mod_UO_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\GSM Controller Configuration Template_GCELL
+Controller_UMTS_Key_Mod_RNCID_Cn,Common\summaryTemplates\rawTemplates\Controller\GSM\zh_CN\GSM Controller Configuration Template_GCELL
+Controller_UMTS_RF_Adjustment_Cn,Common\summaryTemplates\rawTemplates\Controller\UMTS\zh_CN\UMTS RF Adjustment
+Controller_UMTS_RF_Migration_Cn,Common\summaryTemplates\rawTemplates\Controller\UMTS\zh_CN\UMTS RF Adjustment
+Basestation_Carrier_Expansion_Cn,Common\summaryTemplates\rawTemplates\BaseStation\Common\cn\Cn_Carrier Expansion
+Basestation_Carrier_Expansion_En,Common\summaryTemplates\rawTemplates\BaseStation\Common\en\En_Carrier Expansion
+Basestation_RF_Adjustment_List_Cn,Common\summaryTemplates\rawTemplates\BaseStation\Common\cn\Cn_RF Adjustment
+Basestation_RF_Adjustment_List_En,Common\summaryTemplates\rawTemplates\BaseStation\Common\en\En_RF Adjustment
+Basestation_RF_Adjustment_Cn,Common\summaryTemplates\rawTemplates\BaseStation\Common\cn\Cn_RF Adjustment
+Basestation_RF_Adjustment_En,Common\summaryTemplates\rawTemplates\BaseStation\Common\en\En_RF Adjustment
+Basestation_RF_Migration_List_Cn,Common\summaryTemplates\rawTemplates\BaseStation\Common\cn\Cn_RF Migration
+Basestation_RF_Migration_List_En,Common\summaryTemplates\rawTemplates\BaseStation\Common\en\En_RF Migration
+Basestation_RF_Migration_Cn,Common\summaryTemplates\rawTemplates\BaseStation\Common\cn\Cn_RF Migration
+Basestation_RF_Migration_En,Common\summaryTemplates\rawTemplates\BaseStation\Common\en\En_RF Migration
+Basestation_RF_Adjustment_IndoorDistribution_Cn,Common\summaryTemplates\rawTemplates\BaseStation\LTE\cn\Cn_IndoorDistribution_RF Adjustment
+Basestation_RF_Adjustment_Imp_List_En,Common\summaryTemplates\rawTemplates\BaseStation\Common\en\En_RF Adjustment
+Basestation_RF_Adjustment_Imp_En,Common\summaryTemplates\rawTemplates\BaseStation\Common\en\En_RF Adjustment
+Basestation_RF_Migration_Imp_List_En,Common\summaryTemplates\rawTemplates\BaseStation\Common\en\En_RF Migration
+Basestation_RF_Migration_Imp_En,Common\summaryTemplates\rawTemplates\BaseStation\Common\en\En_RF Migration
+REPARENT_NODEB_RADIO_ADJUST_TEMPLATE_EN,Common\Client\Common\local\en_US\Template\Reparent NodeB Radio Adjustment Template
+REPARENT_NODEB_RADIO_ADJUST_TEMPLATE_CN,Common\Client\Common\local\zh_CN\Template\Reparent NodeB Radio Adjustment Template
+BSC6000V901R013C00_BTS_REPARENT_DATA_EN,Common\negotiatedTemplates\BTS Reparent Data\BSC6000V901R013C00
+BSC6000V901R013C00_BTS_REPARENT_DATA_CN,Common\negotiatedTemplates\BTS Reparent Data\BSC6000V901R013C00
+BSC6000V901R016C00SPC100_BTS_REPARENT_DATA_EN,Common\negotiatedTemplates\BTS Reparent Data\6900
+BSC6000V901R016C00SPC100_BTS_REPARENT_DATA_CN,Common\negotiatedTemplates\BTS Reparent Data\6900
+BSC6000V901R018C10_BTS_REPARENT_DATA_EN,Common\negotiatedTemplates\BTS Reparent Data\6900
+BSC6000V901R018C10_BTS_REPARENT_DATA_CN,Common\negotiatedTemplates\BTS Reparent Data\6900
+BSC6900V900R018C10SPC500_BTS_REPARENT_DATA_EN,Common\negotiatedTemplates\BTS Reparent Data\6900
+BSC6900V900R018C10SPC500_BTS_REPARENT_DATA_CN,Common\negotiatedTemplates\BTS Reparent Data\6900
+BSC6900V900R019C00SPC500_BTS_REPARENT_DATA_EN,Common\negotiatedTemplates\BTS Reparent Data\6900
+BSC6900V900R019C00SPC500_BTS_REPARENT_DATA_CN,Common\negotiatedTemplates\BTS Reparent Data\6900
+BSC6900V900R019C10SPC500_BTS_REPARENT_DATA_EN,Common\negotiatedTemplates\BTS Reparent Data\6900
+BSC6900V900R019C10SPC500_BTS_REPARENT_DATA_CN,Common\negotiatedTemplates\BTS Reparent Data\6900
+BSC6900V900R020C00SPC500_BTS_REPARENT_DATA_EN,Common\negotiatedTemplates\BTS Reparent Data\6900
+BSC6900V900R020C00SPC500_BTS_REPARENT_DATA_CN,Common\negotiatedTemplates\BTS Reparent Data\6900
+BSC6900V900R020C10SPC500_BTS_REPARENT_DATA_EN,Common\negotiatedTemplates\BTS Reparent Data\6900
+BSC6900V900R020C10SPC500_BTS_REPARENT_DATA_CN,Common\negotiatedTemplates\BTS Reparent Data\6900
+BSC6900V900R021C00SPC500_BTS_REPARENT_DATA_EN,Common\negotiatedTemplates\BTS Reparent Data\6900
+BSC6900V900R021C00SPC500_BTS_REPARENT_DATA_CN,Common\negotiatedTemplates\BTS Reparent Data\6900
+BSC6900V900R021C10_BTS_REPARENT_DATA_EN,Common\negotiatedTemplates\BTS Reparent Data\6900
+BSC6900V900R021C10_BTS_REPARENT_DATA_CN,Common\negotiatedTemplates\BTS Reparent Data\6900
+BSC6900V900R021C10SPC500_BTS_REPARENT_DATA_EN,Common\negotiatedTemplates\BTS Reparent Data\6900
+BSC6900V900R021C10SPC500_BTS_REPARENT_DATA_CN,Common\negotiatedTemplates\BTS Reparent Data\6900
+BSC6900V900R022C00_BTS_REPARENT_DATA_EN,Common\negotiatedTemplates\BTS Reparent Data\6900
+BSC6900V900R022C00_BTS_REPARENT_DATA_CN,Common\negotiatedTemplates\BTS Reparent Data\6900
+BSC6910V100R018C10SPC500_BTS_REPARENT_DATA_EN,Common\negotiatedTemplates\BTS Reparent Data\6910
+BSC6910V100R018C10SPC500_BTS_REPARENT_DATA_CN,Common\negotiatedTemplates\BTS Reparent Data\6910
+BSC6910V100R019C00SPC500_BTS_REPARENT_DATA_EN,Common\negotiatedTemplates\BTS Reparent Data\6910
+BSC6910V100R019C00SPC500_BTS_REPARENT_DATA_CN,Common\negotiatedTemplates\BTS Reparent Data\6910
+BSC6910V100R019C10SPC500_BTS_REPARENT_DATA_EN,Common\negotiatedTemplates\BTS Reparent Data\6910
+BSC6910V100R019C10SPC500_BTS_REPARENT_DATA_CN,Common\negotiatedTemplates\BTS Reparent Data\6910
+BSC6910V100R020C00SPC500_BTS_REPARENT_DATA_EN,Common\negotiatedTemplates\BTS Reparent Data\6910
+BSC6910V100R020C00SPC500_BTS_REPARENT_DATA_CN,Common\negotiatedTemplates\BTS Reparent Data\6910
+BSC6910V100R020C10SPC500_BTS_REPARENT_DATA_EN,Common\negotiatedTemplates\BTS Reparent Data\6910
+BSC6910V100R020C10SPC500_BTS_REPARENT_DATA_CN,Common\negotiatedTemplates\BTS Reparent Data\6910
+BSC6910V100R021C00SPC500_BTS_REPARENT_DATA_EN,Common\negotiatedTemplates\BTS Reparent Data\6910
+BSC6910V100R021C00SPC500_BTS_REPARENT_DATA_CN,Common\negotiatedTemplates\BTS Reparent Data\6910
+BSC6910V100R021C10_BTS_REPARENT_DATA_EN,Common\negotiatedTemplates\BTS Reparent Data\6910
+BSC6910V100R021C10_BTS_REPARENT_DATA_CN,Common\negotiatedTemplates\BTS Reparent Data\6910
+BSC6910V100R021C10SPC500_BTS_REPARENT_DATA_EN,Common\negotiatedTemplates\BTS Reparent Data\6910
+BSC6910V100R021C10SPC500_BTS_REPARENT_DATA_CN,Common\negotiatedTemplates\BTS Reparent Data\6910
+BSC6910V100R022C00_BTS_REPARENT_DATA_EN,Common\negotiatedTemplates\BTS Reparent Data\6910
+BSC6910V100R022C00_BTS_REPARENT_DATA_CN,Common\negotiatedTemplates\BTS Reparent Data\6910
+BSC6900V900R018C10SPC500_IUIUR_DATA_IMPORT_TEMPLATE_EN,Common\negotiatedTemplates\IuIur Data Import Template\6900
+BSC6900V900R018C10SPC500_IUIUR_DATA_IMPORT_TEMPLATE_CN,Common\negotiatedTemplates\IuIur Data Import Template\6900
+BSC6900V900R019C00SPC500_IUIUR_DATA_IMPORT_TEMPLATE_EN,Common\negotiatedTemplates\IuIur Data Import Template\6900
+BSC6900V900R019C00SPC500_IUIUR_DATA_IMPORT_TEMPLATE_CN,Common\negotiatedTemplates\IuIur Data Import Template\6900
+BSC6900V900R019C10SPC500_IUIUR_DATA_IMPORT_TEMPLATE_EN,Common\negotiatedTemplates\IuIur Data Import Template\6900
+BSC6900V900R019C10SPC500_IUIUR_DATA_IMPORT_TEMPLATE_CN,Common\negotiatedTemplates\IuIur Data Import Template\6900
+BSC6900V900R020C00SPC500_IUIUR_DATA_IMPORT_TEMPLATE_EN,Common\negotiatedTemplates\IuIur Data Import Template\6900
+BSC6900V900R020C00SPC500_IUIUR_DATA_IMPORT_TEMPLATE_CN,Common\negotiatedTemplates\IuIur Data Import Template\6900
+BSC6900V900R020C10SPC500_IUIUR_DATA_IMPORT_TEMPLATE_EN,Common\negotiatedTemplates\IuIur Data Import Template\6900
+BSC6900V900R020C10SPC500_IUIUR_DATA_IMPORT_TEMPLATE_CN,Common\negotiatedTemplates\IuIur Data Import Template\6900
+BSC6900V900R021C00SPC500_IUIUR_DATA_IMPORT_TEMPLATE_EN,Common\negotiatedTemplates\IuIur Data Import Template\6900
+BSC6900V900R021C00SPC500_IUIUR_DATA_IMPORT_TEMPLATE_CN,Common\negotiatedTemplates\IuIur Data Import Template\6900
+BSC6900V900R021C10_IUIUR_DATA_IMPORT_TEMPLATE_EN,Common\negotiatedTemplates\IuIur Data Import Template\6900
+BSC6900V900R021C10_IUIUR_DATA_IMPORT_TEMPLATE_CN,Common\negotiatedTemplates\IuIur Data Import Template\6900
+BSC6900V900R021C10SPC500_IUIUR_DATA_IMPORT_TEMPLATE_EN,Common\negotiatedTemplates\IuIur Data Import Template\6900
+BSC6900V900R021C10SPC500_IUIUR_DATA_IMPORT_TEMPLATE_CN,Common\negotiatedTemplates\IuIur Data Import Template\6900
+BSC6900V900R022C00_IUIUR_DATA_IMPORT_TEMPLATE_EN,Common\negotiatedTemplates\IuIur Data Import Template\6900
+BSC6900V900R022C00_IUIUR_DATA_IMPORT_TEMPLATE_CN,Common\negotiatedTemplates\IuIur Data Import Template\6900
+BSC6910V100R018C10SPC500_IUIUR_DATA_IMPORT_TEMPLATE_EN,Common\negotiatedTemplates\IuIur Data Import Template\6910
+BSC6910V100R018C10SPC500_IUIUR_DATA_IMPORT_TEMPLATE_CN,Common\negotiatedTemplates\IuIur Data Import Template\6910
+BSC6910V100R019C00SPC500_IUIUR_DATA_IMPORT_TEMPLATE_EN,Common\negotiatedTemplates\IuIur Data Import Template\6910
+BSC6910V100R019C00SPC500_IUIUR_DATA_IMPORT_TEMPLATE_CN,Common\negotiatedTemplates\IuIur Data Import Template\6910
+BSC6910V100R019C10SPC500_IUIUR_DATA_IMPORT_TEMPLATE_EN,Common\negotiatedTemplates\IuIur Data Import Template\6910
+BSC6910V100R019C10SPC500_IUIUR_DATA_IMPORT_TEMPLATE_CN,Common\negotiatedTemplates\IuIur Data Import Template\6910
+BSC6910V100R020C00SPC500_IUIUR_DATA_IMPORT_TEMPLATE_EN,Common\negotiatedTemplates\IuIur Data Import Template\6910
+BSC6910V100R020C00SPC500_IUIUR_DATA_IMPORT_TEMPLATE_CN,Common\negotiatedTemplates\IuIur Data Import Template\6910
+BSC6910V100R020C10SPC500_IUIUR_DATA_IMPORT_TEMPLATE_EN,Common\negotiatedTemplates\IuIur Data Import Template\6910
+BSC6910V100R020C10SPC500_IUIUR_DATA_IMPORT_TEMPLATE_CN,Common\negotiatedTemplates\IuIur Data Import Template\6910
+BSC6910V100R021C00SPC500_IUIUR_DATA_IMPORT_TEMPLATE_EN,Common\negotiatedTemplates\IuIur Data Import Template\6910
+BSC6910V100R021C00SPC500_IUIUR_DATA_IMPORT_TEMPLATE_CN,Common\negotiatedTemplates\IuIur Data Import Template\6910
+BSC6910V100R021C10_IUIUR_DATA_IMPORT_TEMPLATE_EN,Common\negotiatedTemplates\IuIur Data Import Template\6910
+BSC6910V100R021C10_IUIUR_DATA_IMPORT_TEMPLATE_CN,Common\negotiatedTemplates\IuIur Data Import Template\6910
+BSC6910V100R021C10SPC500_IUIUR_DATA_IMPORT_TEMPLATE_EN,Common\negotiatedTemplates\IuIur Data Import Template\6910
+BSC6910V100R021C10SPC500_IUIUR_DATA_IMPORT_TEMPLATE_CN,Common\negotiatedTemplates\IuIur Data Import Template\6910
+BSC6910V100R022C00_IUIUR_DATA_IMPORT_TEMPLATE_EN,Common\negotiatedTemplates\IuIur Data Import Template\6910
+BSC6910V100R022C00_IUIUR_DATA_IMPORT_TEMPLATE_CN,Common\negotiatedTemplates\IuIur Data Import Template\6910
+BSC6910V100R022C00_NegotiatedTransformInBSC_Cn,Common\negotiatedTemplates\BTS Transform Data in BSC\6910
+BSC6910V100R022C00_NegotiatedTransformInBSC_En,Common\negotiatedTemplates\BTS Transform Data in BSC\6910
+BSC6910V100R021C10SPC500_NegotiatedTransformInBSC_Cn,Common\negotiatedTemplates\BTS Transform Data in BSC\6910
+BSC6910V100R021C10SPC500_NegotiatedTransformInBSC_En,Common\negotiatedTemplates\BTS Transform Data in BSC\6910
+BSC6910V100R021C10_NegotiatedTransformInBSC_Cn,Common\negotiatedTemplates\BTS Transform Data in BSC\6910
+BSC6910V100R021C10_NegotiatedTransformInBSC_En,Common\negotiatedTemplates\BTS Transform Data in BSC\6910
+BSC6910V100R021C00SPC500_NegotiatedTransformInBSC_Cn,Common\negotiatedTemplates\BTS Transform Data in BSC\6910
+BSC6910V100R021C00SPC500_NegotiatedTransformInBSC_En,Common\negotiatedTemplates\BTS Transform Data in BSC\6910
+BSC6910V100R020C10SPC500_NegotiatedTransformInBSC_Cn,Common\negotiatedTemplates\BTS Transform Data in BSC\6910
+BSC6910V100R020C10SPC500_NegotiatedTransformInBSC_En,Common\negotiatedTemplates\BTS Transform Data in BSC\6910
+BSC6910V100R020C00SPC500_NegotiatedTransformInBSC_Cn,Common\negotiatedTemplates\BTS Transform Data in BSC\6910
+BSC6910V100R020C00SPC500_NegotiatedTransformInBSC_En,Common\negotiatedTemplates\BTS Transform Data in BSC\6910
+BSC6910V100R019C10SPC500_NegotiatedTransformInBSC_Cn,Common\negotiatedTemplates\BTS Transform Data in BSC\6910
+BSC6910V100R019C10SPC500_NegotiatedTransformInBSC_En,Common\negotiatedTemplates\BTS Transform Data in BSC\6910
+BSC6910V100R019C00SPC500_NegotiatedTransformInBSC_Cn,Common\negotiatedTemplates\BTS Transform Data in BSC\6910
+BSC6910V100R019C00SPC500_NegotiatedTransformInBSC_En,Common\negotiatedTemplates\BTS Transform Data in BSC\6910
+BSC6910V100R018C10SPC500_NegotiatedTransformInBSC_Cn,Common\negotiatedTemplates\BTS Transform Data in BSC\6910
+BSC6910V100R018C10SPC500_NegotiatedTransformInBSC_En,Common\negotiatedTemplates\BTS Transform Data in BSC\6910
+BSC6900V900R022C00_NegotiatedTransformInBSC_Cn,Common\negotiatedTemplates\BTS Transform Data in BSC\6900
+BSC6900V900R022C00_NegotiatedTransformInBSC_En,Common\negotiatedTemplates\BTS Transform Data in BSC\6900
+BSC6900V900R021C10SPC500_NegotiatedTransformInBSC_Cn,Common\negotiatedTemplates\BTS Transform Data in BSC\6900
+BSC6900V900R021C10SPC500_NegotiatedTransformInBSC_En,Common\negotiatedTemplates\BTS Transform Data in BSC\6900
+BSC6900V900R021C10_NegotiatedTransformInBSC_Cn,Common\negotiatedTemplates\BTS Transform Data in BSC\6900
+BSC6900V900R021C10_NegotiatedTransformInBSC_En,Common\negotiatedTemplates\BTS Transform Data in BSC\6900
+BSC6900V900R021C00SPC500_NegotiatedTransformInBSC_Cn,Common\negotiatedTemplates\BTS Transform Data in BSC\6900
+BSC6900V900R021C00SPC500_NegotiatedTransformInBSC_En,Common\negotiatedTemplates\BTS Transform Data in BSC\6900
+BSC6900V900R020C10SPC500_NegotiatedTransformInBSC_Cn,Common\negotiatedTemplates\BTS Transform Data in BSC\6900
+BSC6900V900R020C10SPC500_NegotiatedTransformInBSC_En,Common\negotiatedTemplates\BTS Transform Data in BSC\6900
+BSC6900V900R020C00SPC500_NegotiatedTransformInBSC_Cn,Common\negotiatedTemplates\BTS Transform Data in BSC\6900
+BSC6900V900R020C00SPC500_NegotiatedTransformInBSC_En,Common\negotiatedTemplates\BTS Transform Data in BSC\6900
+BSC6900V900R019C10SPC500_NegotiatedTransformInBSC_Cn,Common\negotiatedTemplates\BTS Transform Data in BSC\6900
+BSC6900V900R019C10SPC500_NegotiatedTransformInBSC_En,Common\negotiatedTemplates\BTS Transform Data in BSC\6900
+BSC6900V900R019C00SPC500_NegotiatedTransformInBSC_Cn,Common\negotiatedTemplates\BTS Transform Data in BSC\6900
+BSC6900V900R019C00SPC500_NegotiatedTransformInBSC_En,Common\negotiatedTemplates\BTS Transform Data in BSC\6900
+BSC6900V900R018C10SPC500_NegotiatedTransformInBSC_Cn,Common\negotiatedTemplates\BTS Transform Data in BSC\6900
+BSC6900V900R018C10SPC500_NegotiatedTransformInBSC_En,Common\negotiatedTemplates\BTS Transform Data in BSC\6900
+BSC6000V901R018C10_NegotiatedTransformInBSC_Cn,Common\negotiatedTemplates\BTS Transform Data in BSC\6900
+BSC6000V901R018C10_NegotiatedTransformInBSC_En,Common\negotiatedTemplates\BTS Transform Data in BSC\6900
+BSC6000V901R016C00SPC100_NegotiatedTransformInBSC_Cn,Common\negotiatedTemplates\BTS Transform Data in BSC\6900
+BSC6000V901R016C00SPC100_NegotiatedTransformInBSC_En,Common\negotiatedTemplates\BTS Transform Data in BSC\6900
+BSC6000V901R013C00_NegotiatedTransformInBSC_Cn,Common\negotiatedTemplates\BTS Transform Data in BSC\6900
+BSC6000V901R013C00_NegotiatedTransformInBSC_En,Common\negotiatedTemplates\BTS Transform Data in BSC\6900
+BSC6910V100R022C00_TimeslotOfBTSPort_Cn,
+BSC6910V100R022C00_TimeslotOfBTSPort_En,
+BSC6910V100R021C10SPC500_TimeslotOfBTSPort_Cn,
+BSC6910V100R021C10SPC500_TimeslotOfBTSPort_En,
+BSC6910V100R021C10_TimeslotOfBTSPort_Cn,
+BSC6910V100R021C10_TimeslotOfBTSPort_En,
+BSC6910V100R021C00SPC500_TimeslotOfBTSPort_Cn,
+BSC6910V100R021C00SPC500_TimeslotOfBTSPort_En,
+BSC6910V100R020C10SPC500_TimeslotOfBTSPort_Cn,
+BSC6910V100R020C10SPC500_TimeslotOfBTSPort_En,
+BSC6910V100R020C00SPC500_TimeslotOfBTSPort_Cn,
+BSC6910V100R020C00SPC500_TimeslotOfBTSPort_En,
+BSC6910V100R019C10SPC500_TimeslotOfBTSPort_Cn,
+BSC6910V100R019C10SPC500_TimeslotOfBTSPort_En,
+BSC6910V100R019C00SPC500_TimeslotOfBTSPort_Cn,
+BSC6910V100R019C00SPC500_TimeslotOfBTSPort_En,
+BSC6910V100R018C10SPC500_TimeslotOfBTSPort_Cn,
+BSC6910V100R018C10SPC500_TimeslotOfBTSPort_En,
+BSC6900V900R022C00_TimeslotOfBTSPort_Cn,
+BSC6900V900R022C00_TimeslotOfBTSPort_En,
+BSC6900V900R021C10SPC500_TimeslotOfBTSPort_Cn,
+BSC6900V900R021C10SPC500_TimeslotOfBTSPort_En,
+BSC6900V900R021C10_TimeslotOfBTSPort_Cn,
+BSC6900V900R021C10_TimeslotOfBTSPort_En,
+BSC6900V900R021C00SPC500_TimeslotOfBTSPort_Cn,
+BSC6900V900R021C00SPC500_TimeslotOfBTSPort_En,
+BSC6900V900R020C10SPC500_TimeslotOfBTSPort_Cn,
+BSC6900V900R020C10SPC500_TimeslotOfBTSPort_En,
+BSC6900V900R020C00SPC500_TimeslotOfBTSPort_Cn,
+BSC6900V900R020C00SPC500_TimeslotOfBTSPort_En,
+BSC6900V900R019C10SPC500_TimeslotOfBTSPort_Cn,
+BSC6900V900R019C10SPC500_TimeslotOfBTSPort_En,
+BSC6900V900R019C00SPC500_TimeslotOfBTSPort_Cn,
+BSC6900V900R019C00SPC500_TimeslotOfBTSPort_En,
+BSC6900V900R018C10SPC500_TimeslotOfBTSPort_Cn,
+BSC6900V900R018C10SPC500_TimeslotOfBTSPort_En,
+BSC6000V901R018C10_TimeslotOfBTSPort_Cn,
+BSC6000V901R018C10_TimeslotOfBTSPort_En,
+BSC6000V901R016C00SPC100_TimeslotOfBTSPort_Cn,
+BSC6000V901R016C00SPC100_TimeslotOfBTSPort_En,
+BSC6910V100R022C00_ReparentBTSinBSC_Cn,Common\negotiatedTemplates\BTS Reparent Data in BSC\6910
+BSC6910V100R022C00_ReparentBTSinBSC_En,Common\negotiatedTemplates\BTS Reparent Data in BSC\6910
+BSC6910V100R021C10SPC500_ReparentBTSinBSC_Cn,Common\negotiatedTemplates\BTS Reparent Data in BSC\6910
+BSC6910V100R021C10SPC500_ReparentBTSinBSC_En,Common\negotiatedTemplates\BTS Reparent Data in BSC\6910
+BSC6910V100R021C10_ReparentBTSinBSC_Cn,Common\negotiatedTemplates\BTS Reparent Data in BSC\6910
+BSC6910V100R021C10_ReparentBTSinBSC_En,Common\negotiatedTemplates\BTS Reparent Data in BSC\6910
+BSC6910V100R021C00SPC500_ReparentBTSinBSC_Cn,Common\negotiatedTemplates\BTS Reparent Data in BSC\6910
+BSC6910V100R021C00SPC500_ReparentBTSinBSC_En,Common\negotiatedTemplates\BTS Reparent Data in BSC\6910
+BSC6910V100R020C10SPC500_ReparentBTSinBSC_Cn,Common\negotiatedTemplates\BTS Reparent Data in BSC\6910
+BSC6910V100R020C10SPC500_ReparentBTSinBSC_En,Common\negotiatedTemplates\BTS Reparent Data in BSC\6910
+BSC6910V100R020C00SPC500_ReparentBTSinBSC_Cn,Common\negotiatedTemplates\BTS Reparent Data in BSC\6910
+BSC6910V100R020C00SPC500_ReparentBTSinBSC_En,Common\negotiatedTemplates\BTS Reparent Data in BSC\6910
+BSC6910V100R019C10SPC500_ReparentBTSinBSC_Cn,Common\negotiatedTemplates\BTS Reparent Data in BSC\6910
+BSC6910V100R019C10SPC500_ReparentBTSinBSC_En,Common\negotiatedTemplates\BTS Reparent Data in BSC\6910
+BSC6910V100R019C00SPC500_ReparentBTSinBSC_Cn,Common\negotiatedTemplates\BTS Reparent Data in BSC\6910
+BSC6910V100R019C00SPC500_ReparentBTSinBSC_En,Common\negotiatedTemplates\BTS Reparent Data in BSC\6910
+BSC6910V100R018C10SPC500_ReparentBTSinBSC_Cn,Common\negotiatedTemplates\BTS Reparent Data in BSC\6910
+BSC6910V100R018C10SPC500_ReparentBTSinBSC_En,Common\negotiatedTemplates\BTS Reparent Data in BSC\6910
+BSC6900V900R022C00_ReparentBTSinBSC_Cn,Common\negotiatedTemplates\BTS Reparent Data in BSC\6900
+BSC6900V900R022C00_ReparentBTSinBSC_En,Common\negotiatedTemplates\BTS Reparent Data in BSC\6900
+BSC6900V900R021C10SPC500_ReparentBTSinBSC_Cn,Common\negotiatedTemplates\BTS Reparent Data in BSC\6900
+BSC6900V900R021C10SPC500_ReparentBTSinBSC_En,Common\negotiatedTemplates\BTS Reparent Data in BSC\6900
+BSC6900V900R021C10_ReparentBTSinBSC_Cn,Common\negotiatedTemplates\BTS Reparent Data in BSC\6900
+BSC6900V900R021C10_ReparentBTSinBSC_En,Common\negotiatedTemplates\BTS Reparent Data in BSC\6900
+BSC6900V900R021C00SPC500_ReparentBTSinBSC_Cn,Common\negotiatedTemplates\BTS Reparent Data in BSC\6900
+BSC6900V900R021C00SPC500_ReparentBTSinBSC_En,Common\negotiatedTemplates\BTS Reparent Data in BSC\6900
+BSC6900V900R020C10SPC500_ReparentBTSinBSC_Cn,Common\negotiatedTemplates\BTS Reparent Data in BSC\6900
+BSC6900V900R020C10SPC500_ReparentBTSinBSC_En,Common\negotiatedTemplates\BTS Reparent Data in BSC\6900
+BSC6900V900R020C00SPC500_ReparentBTSinBSC_Cn,Common\negotiatedTemplates\BTS Reparent Data in BSC\6900
+BSC6900V900R020C00SPC500_ReparentBTSinBSC_En,Common\negotiatedTemplates\BTS Reparent Data in BSC\6900
+BSC6900V900R019C10SPC500_ReparentBTSinBSC_Cn,Common\negotiatedTemplates\BTS Reparent Data in BSC\6900
+BSC6900V900R019C10SPC500_ReparentBTSinBSC_En,Common\negotiatedTemplates\BTS Reparent Data in BSC\6900
+BSC6900V900R019C00SPC500_ReparentBTSinBSC_Cn,Common\negotiatedTemplates\BTS Reparent Data in BSC\6900
+BSC6900V900R019C00SPC500_ReparentBTSinBSC_En,Common\negotiatedTemplates\BTS Reparent Data in BSC\6900
+BSC6900V900R018C10SPC500_ReparentBTSinBSC_Cn,Common\negotiatedTemplates\BTS Reparent Data in BSC\6900
+BSC6900V900R018C10SPC500_ReparentBTSinBSC_En,Common\negotiatedTemplates\BTS Reparent Data in BSC\6900
+BSC6000V901R018C10_ReparentBTSinBSC_Cn,Common\negotiatedTemplates\BTS Reparent Data in BSC\6900
+BSC6000V901R018C10_ReparentBTSinBSC_En,Common\negotiatedTemplates\BTS Reparent Data in BSC\6900
+BSC6000V901R016C00SPC100_ReparentBTSinBSC_Cn,Common\negotiatedTemplates\BTS Reparent Data in BSC\6900
+BSC6000V901R016C00SPC100_ReparentBTSinBSC_En,Common\negotiatedTemplates\BTS Reparent Data in BSC\6900
+BSC6000V901R013C00_ReparentBTSinBSC_Cn,Common\negotiatedTemplates\BTS Reparent Data in BSC\BSC6000V901R013C00
+BSC6000V901R013C00_ReparentBTSinBSC_En,Common\negotiatedTemplates\BTS Reparent Data in BSC\BSC6000V901R013C00
+BSC6910V100R022C00_2G_MOCNData_Cn,Common\negotiatedTemplates\MOCN Data
+BSC6910V100R022C00_2G_MOCNData_En,Common\negotiatedTemplates\MOCN Data
+BSC6910V100R021C10SPC500_2G_MOCNData_Cn,Common\negotiatedTemplates\MOCN Data
+BSC6910V100R021C10SPC500_2G_MOCNData_En,Common\negotiatedTemplates\MOCN Data
+BSC6910V100R021C10_2G_MOCNData_Cn,Common\negotiatedTemplates\MOCN Data
+BSC6910V100R021C10_2G_MOCNData_En,Common\negotiatedTemplates\MOCN Data
+BSC6910V100R021C00SPC500_2G_MOCNData_Cn,Common\negotiatedTemplates\MOCN Data
+BSC6910V100R021C00SPC500_2G_MOCNData_En,Common\negotiatedTemplates\MOCN Data
+BSC6910V100R020C10SPC500_2G_MOCNData_Cn,Common\negotiatedTemplates\MOCN Data
+BSC6910V100R020C10SPC500_2G_MOCNData_En,Common\negotiatedTemplates\MOCN Data
+BSC6910V100R020C00SPC500_2G_MOCNData_Cn,Common\negotiatedTemplates\MOCN Data
+BSC6910V100R020C00SPC500_2G_MOCNData_En,Common\negotiatedTemplates\MOCN Data
+BSC6910V100R019C10SPC500_2G_MOCNData_Cn,Common\negotiatedTemplates\MOCN Data
+BSC6910V100R019C10SPC500_2G_MOCNData_En,Common\negotiatedTemplates\MOCN Data
+BSC6910V100R019C00SPC500_2G_MOCNData_Cn,Common\negotiatedTemplates\MOCN Data
+BSC6910V100R019C00SPC500_2G_MOCNData_En,Common\negotiatedTemplates\MOCN Data
+BSC6910V100R018C10SPC500_2G_MOCNData_Cn,Common\negotiatedTemplates\MOCN Data
+BSC6910V100R018C10SPC500_2G_MOCNData_En,Common\negotiatedTemplates\MOCN Data
+BSC6900V900R022C00_2G_MOCNData_Cn,Common\negotiatedTemplates\MOCN Data
+BSC6900V900R022C00_2G_MOCNData_En,Common\negotiatedTemplates\MOCN Data
+BSC6900V900R021C10SPC500_2G_MOCNData_Cn,Common\negotiatedTemplates\MOCN Data
+BSC6900V900R021C10SPC500_2G_MOCNData_En,Common\negotiatedTemplates\MOCN Data
+BSC6900V900R021C10_2G_MOCNData_Cn,Common\negotiatedTemplates\MOCN Data
+BSC6900V900R021C10_2G_MOCNData_En,Common\negotiatedTemplates\MOCN Data
+BSC6900V900R021C00SPC500_2G_MOCNData_Cn,Common\negotiatedTemplates\MOCN Data
+BSC6900V900R021C00SPC500_2G_MOCNData_En,Common\negotiatedTemplates\MOCN Data
+BSC6900V900R020C10SPC500_2G_MOCNData_Cn,Common\negotiatedTemplates\MOCN Data
+BSC6900V900R020C10SPC500_2G_MOCNData_En,Common\negotiatedTemplates\MOCN Data
+BSC6900V900R020C00SPC500_2G_MOCNData_Cn,Common\negotiatedTemplates\MOCN Data
+BSC6900V900R020C00SPC500_2G_MOCNData_En,Common\negotiatedTemplates\MOCN Data
+BSC6900V900R019C10SPC500_2G_MOCNData_Cn,Common\negotiatedTemplates\MOCN Data
+BSC6900V900R019C10SPC500_2G_MOCNData_En,Common\negotiatedTemplates\MOCN Data
+BSC6900V900R019C00SPC500_2G_MOCNData_Cn,Common\negotiatedTemplates\MOCN Data
+BSC6900V900R019C00SPC500_2G_MOCNData_En,Common\negotiatedTemplates\MOCN Data
+BSC6900V900R018C10SPC500_2G_MOCNData_Cn,Common\negotiatedTemplates\MOCN Data
+BSC6900V900R018C10SPC500_2G_MOCNData_En,Common\negotiatedTemplates\MOCN Data
+BSC6000V901R018C10_2G_MOCNData_Cn,Common\negotiatedTemplates\MOCN Data
+BSC6000V901R018C10_2G_MOCNData_En,Common\negotiatedTemplates\MOCN Data
+BSC6000V901R016C00SPC100_2G_MOCNData_Cn,Common\negotiatedTemplates\MOCN Data
+BSC6000V901R016C00SPC100_2G_MOCNData_En,Common\negotiatedTemplates\MOCN Data
+BSC6000V901R013C00_2G_MOCNData_Cn,Common\negotiatedTemplates\MOCN Data
+BSC6000V901R013C00_2G_MOCNData_En,Common\negotiatedTemplates\MOCN Data
+BSC6910V100R022C00_AAterGb_Cn,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6910
+BSC6910V100R022C00_AAterGb_En,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6910
+BSC6910V100R021C10SPC500_AAterGb_Cn,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6910
+BSC6910V100R021C10SPC500_AAterGb_En,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6910
+BSC6910V100R021C10_AAterGb_Cn,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6910
+BSC6910V100R021C10_AAterGb_En,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6910
+BSC6910V100R021C00SPC500_AAterGb_Cn,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6910
+BSC6910V100R021C00SPC500_AAterGb_En,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6910
+BSC6910V100R020C10SPC500_AAterGb_Cn,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6910
+BSC6910V100R020C10SPC500_AAterGb_En,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6910
+BSC6910V100R020C00SPC500_AAterGb_Cn,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6910
+BSC6910V100R020C00SPC500_AAterGb_En,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6910
+BSC6910V100R019C10SPC500_AAterGb_Cn,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6910
+BSC6910V100R019C10SPC500_AAterGb_En,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6910
+BSC6910V100R019C00SPC500_AAterGb_Cn,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6910
+BSC6910V100R019C00SPC500_AAterGb_En,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6910
+BSC6910V100R018C10SPC500_AAterGb_Cn,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6910
+BSC6910V100R018C10SPC500_AAterGb_En,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6910
+BSC6900V900R022C00_AAterGb_Cn,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6900
+BSC6900V900R022C00_AAterGb_En,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6900
+BSC6900V900R021C10SPC500_AAterGb_Cn,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6900
+BSC6900V900R021C10SPC500_AAterGb_En,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6900
+BSC6900V900R021C10_AAterGb_Cn,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6900
+BSC6900V900R021C10_AAterGb_En,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6900
+BSC6900V900R021C00SPC500_AAterGb_Cn,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6900
+BSC6900V900R021C00SPC500_AAterGb_En,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6900
+BSC6900V900R020C10SPC500_AAterGb_Cn,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6900
+BSC6900V900R020C10SPC500_AAterGb_En,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6900
+BSC6900V900R020C00SPC500_AAterGb_Cn,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6900
+BSC6900V900R020C00SPC500_AAterGb_En,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6900
+BSC6900V900R019C10SPC500_AAterGb_Cn,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6900
+BSC6900V900R019C10SPC500_AAterGb_En,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6900
+BSC6900V900R019C00SPC500_AAterGb_Cn,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6900
+BSC6900V900R019C00SPC500_AAterGb_En,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6900
+BSC6900V900R018C10SPC500_AAterGb_Cn,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6900
+BSC6900V900R018C10SPC500_AAterGb_En,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6900
+BSC6000V901R018C10_AAterGb_Cn,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6900
+BSC6000V901R018C10_AAterGb_En,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6900
+BSC6000V901R016C00SPC100_AAterGb_Cn,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6900
+BSC6000V901R016C00SPC100_AAterGb_En,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6900
+BSC6000V901R013C00_AAterGb_Cn,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\BSC6000V901R013C00
+BSC6000V901R013C00_AAterGb_En,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\BSC6000V901R013C00
+BaseStation_RF_Adjustment_R11_Imp_En,Common\summaryTemplates\rawTemplates_imp\BaseStation\Common\en\En_RF Adjustment
+BaseStation_RF_Adjustment_R11_En,Common\summaryTemplates\rawTemplates\BaseStation\Common\en\En_RF Adjustment
+BaseStation_RF_Adjustment_R11_Cn,Common\summaryTemplates\rawTemplates\BaseStation\Common\cn\Cn_RF Adjustment
+BaseStation_RF_Migration_R11_Imp_En,Common\summaryTemplates\rawTemplates_imp\BaseStation\Common\en\En_RF Migration
+BaseStation_RF_Migration_R11_En,Common\summaryTemplates\rawTemplates\BaseStation\Common\en\En_RF Migration
+BaseStation_RF_Migration_R11_Cn,Common\summaryTemplates\rawTemplates\BaseStation\Common\cn\Cn_RF Migration
+ReconstructionExpress_transmissionConfig__En,Common\ReconstructionExpress\en_US\TransferConfiguration\Transmission Configuration Model Conversion Planning Data
+ReconstructionExpress_transmissionConfig__Cn,Common\ReconstructionExpress\zh_CN\TransferConfiguration\Transmission Configuration Model Conversion Planning Data
+IdName_lte_en,Common\local\en_US\AdjustId\LTE
+IdName_nr_en,Common\local\en_US\AdjustId\NR
+IdName_sran_en,Common\local\en_US\AdjustId\SRAN
+IdName_dsa_en,Common\local\en_US\AdjustId\DSA
+IdName_ean_en,Common\local\en_US\AdjustId\eAN
+IdName_lte_cn,Common\local\zh_CN\AdjustId\LTE
+IdName_nr_cn,Common\local\zh_CN\AdjustId\NR
+IdName_sran_cn,Common\local\zh_CN\AdjustId\SRAN
+IdName_dsa_cn,Common\local\zh_CN\AdjustId\DSA
+IdName_ean_cn,Common\local\zh_CN\AdjustId\eAN
+Feature_Template_Data_EN,Common\feature\Feature_Template_Data_EN
+Feature_Template_Data_CN,Common\feature\Feature_Template_Data_CN
+Feature_Template_Pkg_Data_EN,Common\feature\Feature_Template_Pkg_Data_EN
+Feature_Template_Pkg_Data_CN,Common\feature\Feature_Template_Pkg_Data_CN
+Custom_Template_EN,Common\feature\Custom_Template_EN
+Custom_Template_CN,Common\feature\Custom_Template_CN
+QueryTemplate_ConfigState_Data_EN,Common\feature\QueryTemplate_ConfigState_Data_EN
+QueryTemplate_ConfigState_Data_CN,Common\feature\QueryTemplate_ConfigState_Data_CN
+QueryTemplate_WorkState_Data_EN,Common\feature\QueryTemplate_WorkState_Data_EN
+QueryTemplate_WorkState_Data_CN,Common\feature\QueryTemplate_WorkState_Data_CN
+6910_NegotiatedTransformInBSC,Common\negotiatedTemplates\BTS Transform Data in BSC\6910
+6900_NegotiatedTransformInBSC,Common\negotiatedTemplates\BTS Transform Data in BSC\6900
+6910_ReparentBTSinBSC,Common\negotiatedTemplates\BTS Reparent Data in BSC\6910
+6900_ReparentBTSinBSC,Common\negotiatedTemplates\BTS Reparent Data in BSC\6900
+6910_2G_MOCNData,Common\negotiatedTemplates\MOCN Data
+6900_2G_MOCNData,Common\negotiatedTemplates\MOCN Data
+6910_TimeslotOfBTSPort,
+6900_TimeslotOfBTSPort,
+6910_AAterGb,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6910
+6900_AAterGb,Common\negotiatedTemplates\A-Ater-Gb Negotiated Data\6900
+6900_BTS_REPARENT_DATA,Common\negotiatedTemplates\BTS Reparent Data\6900
+6910_BTS_REPARENT_DATA,Common\negotiatedTemplates\BTS Reparent Data\6910
+6900_IUIUR_DATA_IMPORT_TEMPLATE,Common\negotiatedTemplates\IuIur Data Import Template\6900
+6910_IUIUR_DATA_IMPORT_TEMPLATE,Common\negotiatedTemplates\IuIur Data Import Template\6910
+Collection_Table_TDM_D2_R18C10,Common\CustomizeTool\D2\collectionTableTDMD2\BSC6900V900R018C10SPC500
+Collection_Table_TDM_D2_R19C10,Common\CustomizeTool\D2\collectionTableTDMD2\BSC6900V900R019C10SPC500
+Collection_Table_TDM_D2_R20C10,Common\CustomizeTool\D2\collectionTableTDMD2\BSC6900V900R020C10SPC500
+Collection_Table_TDM_D2_R21C10,Common\CustomizeTool\D2\collectionTableTDMD2\BSC6900V900R021C10SPC500
